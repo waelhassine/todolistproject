@@ -1,0 +1,33 @@
+/* .flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.TableTodo{
+  text-align: center;
+}
+.BtnAdd{
+  float:right;
+  margin-right:20px
+
+}
+.AddBar{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-start;
+} */
+.cardWith{
+  width: 800px;
+  min-width: 800px;
+}
+.cardStyle {
+  border: 1px solid var(--color-bg-secondary);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow) var(--color-shadow);
+  margin: 1rem;
+  padding: 1.25rem;
+  /* width: var(--width-card); */
+}
